@@ -1,9 +1,11 @@
 ![LinkedIn_BG_v1](https://github.com/koshirok096/koshirok096/assets/33566624/a126e750-db66-495a-90f3-4de63b4f00ec)
 
-# I'm a web developer & desginer who lives in Vancouver, Canada. Available for web development and design.
+# I'm a web developer & desginer in Vancouver, Canada. Available for web development and design.
 
-🤝 I’m currently collaborating on Waniskaw Foundation
-👯 I’m currently active as a freelancer, and also looking for opportunities for collaboration or employment. If you are interested, please feel free to contact me.
+- 🤝 I’m currently collaborating on Waniskaw Foundation.
+- 👯 I’m currently active as a freelancer, and looking for opportunities for collaboration or employment. Please feel free to contact me.
+
+# Information
 
 - My Portfolio : https://www.koshirokiyota.com/
 - Github : https://github.com/koshirok096/
