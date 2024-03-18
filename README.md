@@ -3,7 +3,7 @@
 # I'm a web developer & desginer in Vancouver, Canada. Available for web development and design.
 
 - 🤝 I’m currently collaborating on Waniskaw Foundation.
-- 👯 I’m currently active as a freelancer, and looking for opportunities for collaboration or employment. Please feel free to contact me.
+- 👯 I’m looking for opportunities for collaboration or employment. Please feel free to contact me if you're interested in.
 
 # Information
 
