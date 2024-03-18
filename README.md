@@ -15,7 +15,7 @@
 
 # My Skill
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,styledcomponents,js,javascript,react,next,vite,gatsby,typescript,jquery,redux,webflow,wordpress,express,nodejs,mysql,mongodb,github,docker,firebase,figma,vscode,git," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,styledcomponents,js,react,next,vite,gatsby,typescript,jquery,redux,webflow,wordpress,express,nodejs,mysql,mongodb,github,docker,firebase,figma,vscode,git," /> <br /><br />
 
   ※Another skills and tools : 
   WIX, Zustand, Adobe Creative Suites (includes Photoshop and Lightroom), DaVinci Resolve, After Effects, and so on.
