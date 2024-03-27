@@ -13,7 +13,7 @@
 - Dev.to : https://dev.to/koshirok096/
 - LinkedIn : https://www.linkedin.com/in/koshiro-k-382371151/
 
-# My Skill
+# My Skills
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,styledcomponents,js,react,next,vite,gatsby,typescript,jquery,redux,webflow,wordpress,express,nodejs,mysql,mongodb,github,docker,firebase,figma,vscode,git," /> <br /><br />
 
