@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,styledcomponents,js,react,next,vite,gatsby,typescript,jquery,redux,webflow,wordpress,express,nodejs,mysql,mongodb,github,docker,firebase,figma,vscode,git," /> <br /><br />
 
   ※ Another skills and tools : 
-  WIX, Zustand, Adobe Creative Suites (includes Photoshop and Lightroom), DaVinci Resolve, After Effects, and so on.
+  WIX, Zustand, Adobe Creative Suites (Photoshop, Lightroom, After Effects, Illustrator, InDesign, etc), DaVinci Resolve, and so on.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshirok096&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
